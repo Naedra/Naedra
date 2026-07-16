@@ -1,4 +1,9 @@
-## Hello World! 💖
+
+
+
+<img width="1584" height="396" alt="Banner De  Linkedin Ingeniero en informática Ilustrado Azul Oscuro" src="https://github.com/user-attachments/assets/7a907aef-e644-4027-987a-2ebbcc4330d1" />
+
+
 
 # ✨️Hi my name is Naedra✨️
 
