@@ -8,14 +8,15 @@
 # ✨️Hi my name is Naedra✨️
 
 *Contact me:* 
-naedra.feliciano@upr.edu
+Personal email: naedraj.fa248@gmail.com
+Institutional email: naedra.feliciano@upr.edu
 
 
 ## Programming Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ![stats](https://github-stats-extended.vercel.app/api/top-langs?username=Naedra&layout=pie&langs_count=5&theme=neon)
 <!--
